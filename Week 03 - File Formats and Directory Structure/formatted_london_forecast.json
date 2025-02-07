@@ -1,0 +1,13 @@
+{
+	"latitude":51.5,
+	"longitude":-0.120000124,
+	"generationtime_ms":0.08726119995117188,
+	"utc_offset_seconds":0,
+	"timezone":"Europe/London",
+	"timezone_abbreviation":"GMT",
+	"elevation":23.0,
+	"daily_units":{"time":"iso8601","temperature_2m_max":"°C","temperature_2m_min":"°C"},"daily":{"time":["2025-02-04","2025-02-05","2025-02-06","2025-02-07","2025-02-08","2025-02-09","2025-02-10"],"temperature_2m_max":[9.7,8.7,7.5,5.4,5.5,5.3,4.4],"temperature_2m_min":[6.3,2.2,0.8,1.4,0.3,0.1,2.3]
+	}
+}
+
+
